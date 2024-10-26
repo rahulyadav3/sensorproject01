@@ -1,0 +1,4 @@
+pandas
+numpy
+# toh yeh trigger kr rha hai setup.py file ko from requirement file
+-e.
